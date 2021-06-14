@@ -21,4 +21,4 @@ Sophomore @ Dept. of Information Technology, IIEST, Shibpur
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soham182001&hide=stars&count_private=true&show_icons=true&theme=gotham" alt="Soham182001" />
+<img src="https://github-readme-stats.vercel.app/api?username=Soham182001&count_private=true&show_icons=true&theme=gotham" alt="Soham182001" />
