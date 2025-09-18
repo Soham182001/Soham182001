@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Soham 👋</h1>
 
-Sophomore @ Dept. of Information Technology, IIEST, Shibpur
+Software Engineer at Wells Fargo
 <br>
 <p align="left" style="margin-top:20px;">
 
